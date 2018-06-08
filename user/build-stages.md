@@ -284,4 +284,5 @@ This example uses YAML aliases to define steps. It has 3 build stages:
 * One job that deploys to staging
 * Three jobs that runs test against staging
 
-You can find more [details here](/user/build-stages/using-yaml-aliases/).
+Anda boleh mendapatkan lebih banyak [maklumat di sini]p/) .
+Gg
